@@ -1,0 +1,2697 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\admin\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\admin\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\admin\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\components\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\mixins\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\css\\custom.css",
+      "PackagePath": "staticwebassets\\book-shop\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\css\\megamenu.css",
+      "PackagePath": "staticwebassets\\book-shop\\css\\megamenu.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\book-shop\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\css\\range-slider.css",
+      "PackagePath": "staticwebassets\\book-shop\\css\\range-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\css\\settings.css",
+      "PackagePath": "staticwebassets\\book-shop\\css\\settings.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\css\\style.css",
+      "PackagePath": "staticwebassets\\book-shop\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\advertisement.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\advertisement.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\author1.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\author1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\author2.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\author2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\author3.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\author3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\author4.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\author4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\banner.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\banner1.1.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\banner1.1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\banner1.2.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\banner1.2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\banner1.3.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\banner1.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\banner1.4.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\banner1.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\book-1-1.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\book-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\book-1-2.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\book-1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\book-1.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\book-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\book-2-1.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\book-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\book-2.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\book-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\book-3-1.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\book-3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\book-3.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\book-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\book-4-1.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\book-4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\book-4.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\book-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\book-5-1.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\book-5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\book-5.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\book-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\book-6-1.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\book-6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\book-6.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\book-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\contact-us.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\contact-us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\book-shop\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\featured-product.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\featured-product.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\l1.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\l1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\l10.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\l10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\l11.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\l11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\l12.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\l12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\l13.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\l13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\l15.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\l15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\l7.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\l7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\l8.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\l8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\l9.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\l9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\logo.png",
+      "PackagePath": "staticwebassets\\book-shop\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\product\\1cb9daa8-77d0-4473-91ae-15c91afba951apples.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\product\\1cb9daa8-77d0-4473-91ae-15c91afba951apples.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\product\\7debbf9e-1566-43f5-a15f-cfdbcb384a62chicken.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\product\\7debbf9e-1566-43f5-a15f-cfdbcb384a62chicken.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\product\\bd722313-8b94-4967-9524-564d64c3099ebananas.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\product\\bd722313-8b94-4967-9524-564d64c3099ebananas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\shop1.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\shop1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\shop2.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\shop2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\shopcart-1.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\shopcart-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\shopcart-2.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\shopcart-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\slider-bg-2.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\slider-bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\img\\user2.jpg",
+      "PackagePath": "staticwebassets\\book-shop\\img\\user2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\js\\grid-to-carousel.js",
+      "PackagePath": "staticwebassets\\book-shop\\js\\grid-to-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\js\\map.js",
+      "PackagePath": "staticwebassets\\book-shop\\js\\map.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\js\\megamenu.js",
+      "PackagePath": "staticwebassets\\book-shop\\js\\megamenu.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\js\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\book-shop\\js\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\book-shop\\js\\script.js",
+      "PackagePath": "staticwebassets\\book-shop\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\PHPMailer\\Exception.php",
+      "PackagePath": "staticwebassets\\vendor\\PHPMailer\\Exception.php"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\PHPMailer\\OAuth.php",
+      "PackagePath": "staticwebassets\\vendor\\PHPMailer\\OAuth.php"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\PHPMailer\\PHPMailer.php",
+      "PackagePath": "staticwebassets\\vendor\\PHPMailer\\PHPMailer.php"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\PHPMailer\\POP3.php",
+      "PackagePath": "staticwebassets\\vendor\\PHPMailer\\POP3.php"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\PHPMailer\\SMTP.php",
+      "PackagePath": "staticwebassets\\vendor\\PHPMailer\\SMTP.php"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\contact-mailer.php",
+      "PackagePath": "staticwebassets\\vendor\\contact-mailer.php"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\css\\LineIcons.min.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\LineIcons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\css\\bundle.min.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\css\\cubeportfolio.min.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\cubeportfolio.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\css\\drift-basic.min.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\drift-basic.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\css\\elements.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\elements.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\css\\jquery-ui.bundle.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\jquery-ui.bundle.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\css\\line-awesome.min.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\line-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\css\\mediaelementplayer.min.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\mediaelementplayer.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\css\\megamenu.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\megamenu.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\css\\revolution-settings.min.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\revolution-settings.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\css\\slick.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\css\\swiper.min.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\css\\tooltipster.min.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\tooltipster.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\css\\wow.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\wow.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\LineIcons.eot",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\LineIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\LineIcons.svg",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\LineIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\LineIcons.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\LineIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\LineIcons.woff",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\LineIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\la-brands-400.eot",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\la-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\la-brands-400.svg",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\la-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\la-brands-400.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\la-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\la-brands-400.woff",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\la-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\la-brands-400.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\la-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\la-regular-400.eot",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\la-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\la-regular-400.svg",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\la-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\la-regular-400.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\la-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\la-regular-400.woff",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\la-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\la-regular-400.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\la-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\la-solid-900.eot",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\la-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\la-solid-900.svg",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\la-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\la-solid-900.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\la-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\la-solid-900.woff",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\la-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\la-solid-900.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\la-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\revicons.eot",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\revicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\revicons.svg",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\revicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\revicons.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\revicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\revicons.woff",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\revicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\cbp-sprite.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\cbp-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-01-1-blog.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-01-1-blog.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-01-2-blog.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-01-2-blog.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-01-3-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-01-3-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-01-4-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-01-4-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-01-5-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-01-5-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-01-6-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-01-6-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-02-1-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-02-1-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-03-1-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-03-1-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-03-2-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-03-2-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-03-3-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-03-3-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-04-1-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-04-1-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-04-2-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-04-2-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-04-3-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-04-3-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-04-4-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-04-4-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-04-5-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-04-5-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-04-6-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-04-6-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-05-1-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-05-1-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-06-1-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-06-1-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-06-2-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-06-2-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-06-3-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-06-3-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-06-4-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-06-4-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-06-5-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-06-5-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-07-1-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-07-1-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-07-2-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-07-2-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-07-3-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-07-3-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-07-4-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-07-4-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-08-1-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-08-1-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-09-1-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-09-1-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-10-1-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-10-1-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-10-2-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-10-2-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-10-3-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-10-3-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-11-1-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-11-1-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-11-2-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-11-2-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-11-3-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-11-3-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-11-4-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-11-4-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-12-1-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-12-1-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-12-2-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-12-2-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-12-3-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-12-3-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-12-4-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-12-4-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-13-1-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-13-1-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-14-1-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-14-1-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-14-2-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-14-2-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-15-1-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-15-1-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-15-2-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-15-2-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-15-3-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-15-3-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-16-1-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-16-1-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\blog-img\\ui-block-16-2-blog.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\blog-img\\ui-block-16-2-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\counter-img\\ui-block-07-counter.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\counter-img\\ui-block-07-counter.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\counter-img\\ui-block-08-counter.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\counter-img\\ui-block-08-counter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\counter-img\\ui-block-09-counter.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\counter-img\\ui-block-09-counter.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\counter-img\\ui-block-11-counter.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\counter-img\\ui-block-11-counter.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\counter-img\\ui-block-12-counter.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\counter-img\\ui-block-12-counter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\counter-img\\ui-block-15-1-counter.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\counter-img\\ui-block-15-1-counter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\counter-img\\ui-block-15-counter.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\counter-img\\ui-block-15-counter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\counter-img\\ui-block-17-counter.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\counter-img\\ui-block-17-counter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\counter-img\\ui-block-18-counter.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\counter-img\\ui-block-18-counter.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\counter-img\\ui-block-19-counter.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\counter-img\\ui-block-19-counter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\counter-img\\ui-block-21-counter.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\counter-img\\ui-block-21-counter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\counter-img\\ui-block-22-counter.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\counter-img\\ui-block-22-counter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\counter-img\\ui-block-24-counter.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\counter-img\\ui-block-24-counter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\counter-img\\ui-block-25-counter.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\counter-img\\ui-block-25-counter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\counter-img\\ui-block-26-counter.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\counter-img\\ui-block-26-counter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\counter-img\\ui-block-28-counter.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\counter-img\\ui-block-28-counter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\counter-img\\ui-block-33-counter.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\counter-img\\ui-block-33-counter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\counter-img\\ui-block-35-counter.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\counter-img\\ui-block-35-counter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\footer-img\\footer-svg.svg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\footer-img\\footer-svg.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\footer-img\\ui-block-03-1-footer.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\footer-img\\ui-block-03-1-footer.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\footer-img\\ui-block-04-1-footer.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\footer-img\\ui-block-04-1-footer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\footer-img\\ui-block-06-1-footer.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\footer-img\\ui-block-06-1-footer.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\footer-img\\ui-block-08-1-footer.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\footer-img\\ui-block-08-1-footer.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\footer-img\\ui-block-12-1-footer.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\footer-img\\ui-block-12-1-footer.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\footer-img\\ui-block-14-1-footer.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\footer-img\\ui-block-14-1-footer.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\footer-img\\ui-block-14-2-footer.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\footer-img\\ui-block-14-2-footer.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-02.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-04.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-05.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-06.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-06.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-06.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-08.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-09.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-09.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-10.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-10.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-11.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-11.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-11.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-14.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-15.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-15.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-15.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-17.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-19.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-21.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-21.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-22.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-22.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-23.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-24-1.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-24-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-24-2.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-24-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-24-3.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-24-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-26.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-28.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-29.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-29.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-29.svg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-29.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-30.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-32.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-33.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-33.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-33.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-34-1.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-34-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-34.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-34.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-37.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-39.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-40.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-40.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-43.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-46.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\info-img\\ui-block-50-about.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\info-img\\ui-block-50-about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-1.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-10.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-11.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-12.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-2.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-3.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-4.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-5.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-6.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-7.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-8.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-9.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-10\\work-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-11\\project-item-01.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-11\\project-item-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-11\\project-item-02.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-11\\project-item-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-11\\project-item-03.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-11\\project-item-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-11\\project-item-04.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-11\\project-item-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-11\\project-item-05.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-11\\project-item-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-11\\project-item-06.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-11\\project-item-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-11\\project-item-07.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-11\\project-item-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-11\\project-item-08.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-11\\project-item-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-11\\project-item-09.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-11\\project-item-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-12\\portfolio-img1.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-12\\portfolio-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-12\\portfolio-img2.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-12\\portfolio-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-12\\portfolio-img3.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-12\\portfolio-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-12\\portfolio-img4.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-12\\portfolio-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-12\\portfolio-img5.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-12\\portfolio-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-12\\portfolio-img6.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-12\\portfolio-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-1\\ui-block-01-portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-1\\ui-block-01-portfolio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-1\\ui-block-01-portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-1\\ui-block-01-portfolio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-1\\ui-block-01-portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-1\\ui-block-01-portfolio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-1\\ui-block-01-portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-1\\ui-block-01-portfolio-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-2\\ui-block-02-portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-2\\ui-block-02-portfolio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-2\\ui-block-02-portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-2\\ui-block-02-portfolio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-2\\ui-block-02-portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-2\\ui-block-02-portfolio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-2\\ui-block-02-portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-2\\ui-block-02-portfolio-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-2\\ui-block-02-portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-2\\ui-block-02-portfolio-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-2\\ui-block-02-portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-2\\ui-block-02-portfolio-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-2\\ui-block-02-portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-2\\ui-block-02-portfolio-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-2\\ui-block-02-portfolio-8.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-2\\ui-block-02-portfolio-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-3\\ui-block-01-portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-3\\ui-block-01-portfolio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-3\\ui-block-01-portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-3\\ui-block-01-portfolio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-3\\ui-block-01-portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-3\\ui-block-01-portfolio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-4\\portfolio-img-1.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-4\\portfolio-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-4\\portfolio-img-2.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-4\\portfolio-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-4\\portfolio-img-3.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-4\\portfolio-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-4\\portfolio-img-4.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-4\\portfolio-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-4\\portfolio-img-5.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-4\\portfolio-img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-4\\portfolio-img-6.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-4\\portfolio-img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-4\\portfolio-img-7.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-4\\portfolio-img-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-4\\portfolio-img-8.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-4\\portfolio-img-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-5\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-5\\portfolio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-5\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-5\\portfolio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-5\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-5\\portfolio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-6\\p1.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-6\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-6\\p2.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-6\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-6\\p3.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-6\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-7\\g1.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-7\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-7\\g2.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-7\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-7\\g3.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-7\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-7\\g4.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-7\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-7\\g5.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-7\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-7\\g6.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-7\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-7\\speaker_bg1.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-7\\speaker_bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-8\\p-1.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-8\\p-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-8\\p-2.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-8\\p-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-8\\p-3.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-8\\p-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-8\\p-4.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-8\\p-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-8\\p-5.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-8\\p-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-8\\p-6.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-8\\p-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-8\\p-7.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-8\\p-7.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-border.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-border.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-1.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-10.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-11.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-2.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-3.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-4.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-5.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-6.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-7.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-8.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-9.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img-9\\gallery-img-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-1.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-10.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-11.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-12.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-2.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-3.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-4.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-5.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-6.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-7.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-8.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-9.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\portfolio-img\\portfolio-img\\portfolio-img-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\pricing-img\\ui-block-08-pricing.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\pricing-img\\ui-block-08-pricing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\quote-img\\ui-block-01-1-quote.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\quote-img\\ui-block-01-1-quote.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\quote-img\\ui-block-01-2-quote.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\quote-img\\ui-block-01-2-quote.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\quote-img\\ui-block-01-3-quote.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\quote-img\\ui-block-01-3-quote.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\quote-img\\ui-block-02-1-quote.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\quote-img\\ui-block-02-1-quote.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\quote-img\\ui-block-04-1-quote.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\quote-img\\ui-block-04-1-quote.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\quote-img\\ui-block-06-1-quote.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\quote-img\\ui-block-06-1-quote.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\quote-img\\ui-block-08-1-quote.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\quote-img\\ui-block-08-1-quote.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\quote-img\\ui-block-10-1-quote.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\quote-img\\ui-block-10-1-quote.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\quote-img\\ui-block-12-1-quote.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\quote-img\\ui-block-12-1-quote.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\quote-img\\ui-block-15-1-quote.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\quote-img\\ui-block-15-1-quote.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\quote-img\\ui-block-16-1-quote.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\quote-img\\ui-block-16-1-quote.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\quote-img\\ui-block-17-1-quote.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\quote-img\\ui-block-17-1-quote.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\quote-img\\ui-block-18-1-quote.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\quote-img\\ui-block-18-1-quote.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-01-1-shape-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-01-1-shape-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-01-1-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-01-1-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-01-2-shape-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-01-2-shape-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-01-2-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-01-2-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-01-3-shape-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-01-3-shape-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-01-3-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-01-3-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-02-1-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-02-1-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-02-2-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-02-2-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-02-3-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-02-3-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-03-1-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-03-1-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-03-2-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-03-2-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-03-3-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-03-3-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-03-4-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-03-4-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-03-5-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-03-5-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-04-1-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-04-1-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-04-2-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-04-2-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-04-3-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-04-3-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-05-1-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-05-1-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-05-2-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-05-2-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-05-3-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-05-3-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-06-1-shape-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-06-1-shape-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-06-1-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-06-1-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-06-2-shape-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-06-2-shape-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-06-2-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-06-2-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-06-3-shape-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-06-3-shape-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-06-3-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-06-3-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-06-hover-shape-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-06-hover-shape-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-07-1-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-07-1-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-07-2-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-07-2-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-07-3-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-07-3-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-08-1-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-08-1-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-08-2-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-08-2-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-09-1-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-09-1-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-09-2-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-09-2-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-09-bg-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-09-bg-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-10-1-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-10-1-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-10-2-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-10-2-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-10-3-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-10-3-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-10-4-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-10-4-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-11-1-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-11-1-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-11-2-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-11-2-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-11-3-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-11-3-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-12-1-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-12-1-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-12-2-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-12-2-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-12-3-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-12-3-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-13-1-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-13-1-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-13-2-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-13-2-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-13-3-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-13-3-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-13-4-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-13-4-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-14-1-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-14-1-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-14-2-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-14-2-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-14-3-team.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-14-3-team.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-15-1-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-15-1-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-15-2-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-15-2-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-15-3-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-15-3-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-16-1-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-16-1-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-16-2-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-16-2-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-16-3-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-16-3-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-17-1-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-17-1-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-17-2-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-17-2-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-17-3-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-17-3-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\team-img\\ui-block-17-4-team.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\team-img\\ui-block-17-4-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-01-1-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-01-1-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-01-2-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-01-2-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-01-3-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-01-3-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-01-4-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-01-4-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-01-bg-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-01-bg-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-02-1-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-02-1-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-02-2-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-02-2-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-02-3-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-02-3-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-02-4-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-02-4-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-03-1-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-03-1-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-03-2-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-03-2-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-03-3-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-03-3-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-03-4-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-03-4-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-03-bg-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-03-bg-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-04-1-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-04-1-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-04-2-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-04-2-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-04-3-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-04-3-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-04-4-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-04-4-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-04-5-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-04-5-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-05-1-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-05-1-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-05-2-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-05-2-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-05-3-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-05-3-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-05-main-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-05-main-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-06-1-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-06-1-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-06-2-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-06-2-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-06-main-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-06-main-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-07-1-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-07-1-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-07-2-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-07-2-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-08-1-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-08-1-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-08-2-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-08-2-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-09-1-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-09-1-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-09-2-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-09-2-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-09-3-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-09-3-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-10-1-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-10-1-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-11-1-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-11-1-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-11-2-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-11-2-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-11-3-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-11-3-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-11-bg-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-11-bg-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-12-1-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-12-1-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-12-2-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-12-2-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-12-3-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-12-3-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-12-4-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-12-4-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-13-1-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-13-1-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-13-2-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-13-2-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-13-3-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-13-3-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-13-bg-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-13-bg-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-14-1-partner-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-14-1-partner-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-14-1-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-14-1-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-14-2-partner-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-14-2-partner-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-14-2-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-14-2-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-14-3-partner-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-14-3-partner-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-14-3-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-14-3-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-14-4-partner-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-14-4-partner-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-15-1-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-15-1-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-15-2-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-15-2-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-15-3-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-15-3-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-15-bg-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-15-bg-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-16-1-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-16-1-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-16-2-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-16-2-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-16-3-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-16-3-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-16-4-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-16-4-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-17-bg-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-17-bg-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-18-1-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-18-1-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-18-2-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-18-2-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-18-3-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-18-3-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-18-bg-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-18-bg-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-18-border-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-18-border-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-19-1-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-19-1-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-19-2-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-19-2-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-19-3-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-19-3-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-19-4-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-19-4-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-19-bg-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-19-bg-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-20-1-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-20-1-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-20-2-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-20-2-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-20-3-testimonial.jpg",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-20-3-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-21-1-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-21-1-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-21-2-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-21-2-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-21-3-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-21-3-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-21-4-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-21-4-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-21-5-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-21-5-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-21-6-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-21-6-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-21-7-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-21-7-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-22-1-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-22-1-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-22-2-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-22-2-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-22-3-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-22-3-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-22-bg-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-22-bg-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-23-1-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-23-1-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-23-2-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-23-2-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\elements-img\\testimonial-img\\ui-block-23-3-testimonial.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\elements-img\\testimonial-img\\ui-block-23-3-testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\vendor\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\mejs-controls.png",
+      "PackagePath": "staticwebassets\\vendor\\img\\mejs-controls.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\img\\mejs-controls.svg",
+      "PackagePath": "staticwebassets\\vendor\\img\\mejs-controls.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\Drift.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\Drift.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\TweenMax.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\TweenMax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\bootstrap-input-spinner.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\bootstrap-input-spinner.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\circle-progress.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\circle-progress.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\contact_us.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\contact_us.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\date.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\date.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\extensions\\revolution.addon.snow.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\extensions\\revolution.addon.snow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\extensions\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\extensions\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\extensions\\revolution.extension.beforeafter.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\extensions\\revolution.extension.beforeafter.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\extensions\\revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\extensions\\revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\extensions\\revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\extensions\\revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\extensions\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\extensions\\revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\extensions\\revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\extensions\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\extensions\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\extensions\\revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\extensions\\revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\extensions\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\extensions\\revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\extensions\\revolution.extension.video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\flip.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\flip.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\hover-item.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\hover-item.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\jquery-countTo.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\jquery-countTo.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\jquery-ui.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\jquery-ui.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\jquery.appear.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\jquery.appear.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\jquery.cubeportfolio.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\jquery.cubeportfolio.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\jquery.hoverdir.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\jquery.hoverdir.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\mediaelement-and-player.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\mediaelement-and-player.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\megamenu.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\megamenu.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\modernizr.custom.97074.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\modernizr.custom.97074.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\morphext.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\morphext.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\parallaxie.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\parallaxie.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\particles.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\particles.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\stickyfill.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\stickyfill.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\swiper.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\swiper.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\js\\swiper.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\tilt.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\tooltipster.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\tooltipster.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\wow.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\code academy\\Quiz\\Quiz\\Quiz\\wwwroot\\vendor\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Quiz.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Quiz.props",
+      "PackagePath": "build\\Quiz.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Quiz.props",
+      "PackagePath": "buildMultiTargeting\\Quiz.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Quiz.props",
+      "PackagePath": "buildTransitive\\Quiz.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
